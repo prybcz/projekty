@@ -1,4 +1,4 @@
-# projekty
+# Projekty
 projekty robione na studia
 
 # Power_bi
