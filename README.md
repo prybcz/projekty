@@ -16,3 +16,7 @@ Plan analizy:  <br>
 4. Analiza skupien - klastrowanie  <br>
 5. Klasyfikacja pod nazorem z uzyciem lasow losowych  <br>
 6. Analiza GMM
+
+
+# Drzawa i Sortowanie
+te projekty miały na celu pokazać nam jak działają różne algorytmy sortujące i badaliśmy ich mocne i słabe strony oraz badaliśmy róznego rodzaje struktury danych takie jak drzewa
