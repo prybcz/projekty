@@ -3,7 +3,7 @@ projekty robione na studia
 https://drive.google.com/drive/folders/1HoMTeFnzLxcodmmyHzC506mAC7670M7g?usp=drive_link
 
 # Power_bi - mecze
-## Projekt zrobiony na zaliczenie ćwiczeń z przedmiotu Analityka biznesowa
+ Projekt zrobiony na zaliczenie ćwiczeń z przedmiotu Analityka biznesowa <br>
 Projekt polegał na pracy grupowej w której mieślmy przygotować raport z danych które sobie znależliśmy. <br>
 Moim zadaniem było przygotwanie zakładki boisko oraz cześciowo zakładki mecz.
 
