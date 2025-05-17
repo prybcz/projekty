@@ -2,6 +2,7 @@
 projekty robione na studia
 
 # Power_bi
+link do projektu: https://uniwersytetlodzki-my.sharepoint.com/:u:/r/personal/ul0275772_edu_uni_lodz_pl/Documents/semestr%20IV/Analityka%20Biznesowa/GigaBiznes/posession-DESKTOP-F93SROE-2.pbix?csf=1&web=1&e=1XTImg
 ## Projekt zrobiony na zaliczenie ćwiczeń z przedmiotu Analityka biznesowa
 Projekt polegał na pracy grupowej w której mieślmy przygotować raport z danych które sobie znależliśmy. <br>
 Moim zadaniem było przygotwanie zakładki boisko oraz cześciowo zakładki mecz.
